@@ -1,0 +1,13 @@
+.w_custom{
+    width: 230px;
+    height: 250px;
+}
+.bg_album{
+    background-color: rgb(51, 61, 117);
+}
+.text_grey{
+    color: gray;
+}
+body{
+    background-color: rgb(2, 2, 51);
+}
